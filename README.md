@@ -56,7 +56,7 @@ For which value of p <= 1000, is the number of solutions maximised?
 ## Problem #69:
 
 Euler's totient function, phi(n) [sometimes called the phi function], is defined as the number of 
-positive integers not exceeding which are relatively prime to n. For example, as 1, 2, 4, 5, 7, and 
+positive integers not exceeding n which are relatively prime to n. For example, as 1, 2, 4, 5, 7, and 
 8, are all less than or equal to nine and relatively prime to nine, phi(9) = 6.
 
 | n   | Relatively Prime | phi(n) | n/phi(n) |
