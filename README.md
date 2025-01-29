@@ -95,6 +95,9 @@ The minimal path sum in the 5 by 5 matrix below, by starting in any cell in the 
 in any cell in the right column, and only moving up, down, and right, is indicated in red and bold; 
 the sum is equal to 994.
 
+![image](https://github.com/user-attachments/assets/bdb07ba9-2d64-42e2-8b49-ff07a0a8230f)
+
+
 Find the minimal path sum from the left column to the right column in matrix.txt, a 31K text file containing an 
 80 by 80 matrix.
 
