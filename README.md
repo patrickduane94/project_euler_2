@@ -88,3 +88,13 @@ right, by only moving to the right and down, is indicated in bold red and is equ
 Find the minimal path sum from the top left to the bottom right by only moving right and down in 
 matrix.txt, a 31K text file containing an 80 by 80 matrix.
 
+
+## Problem #82:
+
+The minimal path sum in the 5 by 5 matrix below, by starting in any cell in the left column and finishing 
+in any cell in the right column, and only moving up, down, and right, is indicated in red and bold; 
+the sum is equal to 994.
+
+Find the minimal path sum from the left column to the right column in matrix.txt, a 31K text file containing an 
+80 by 80 matrix.
+
